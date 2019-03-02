@@ -32,5 +32,5 @@ def position_taken?(board, index)
 def turn(board)
   puts "Please enter 1-9:"
   user_input = gets.chomp
-  number_entered = user_input.to_1 - 1
+  number_entered = user_input.to_i - 1
 end
