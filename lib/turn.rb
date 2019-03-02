@@ -35,4 +35,4 @@ def turn(board)
   input_to_index
 end
 
-turn(board)
+turn(1)
