@@ -35,5 +35,3 @@ def turn(board)
   number_entered = user_input.to_i - 1
   input_to_index
 end
-
-
