@@ -34,3 +34,5 @@ def turn(board)
   turn = gets
   input_to_index
 end
+
+turn(board)
