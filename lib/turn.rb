@@ -34,4 +34,4 @@ def turn(board)
   turn = " "
 end
 
-turn(board)
+
