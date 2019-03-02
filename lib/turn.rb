@@ -29,6 +29,6 @@ def position_taken?(board, index)
   ! (board[index] ==  " " || board[index] == "" || board[index] == nil)
   end
 
-def turn
+def turn(board)
   print "Please enter 1-9"
 end
