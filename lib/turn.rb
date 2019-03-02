@@ -33,4 +33,4 @@ def turn(board)
   puts "Please enter 1-9:"
 end
 
-turn(2)
+turn.gets(2)
