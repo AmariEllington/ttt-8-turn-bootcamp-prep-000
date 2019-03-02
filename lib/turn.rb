@@ -31,6 +31,7 @@ def position_taken?(board, index)
 
 def turn(board)
   puts "Please enter 1-9:"
+  turn = " "
 end
 
 turn(board)
